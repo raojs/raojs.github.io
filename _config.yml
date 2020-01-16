@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: "RJS | live, blog, code"
+email: raojunsong@outlook.com
+description: "blog, frontend, code, live"
+baseurl: ""
+url: "https://raojs.com"
+github_username: raojs
+permalink: /blog/:title/
+
+remote_theme: aigarsdz/brume
+plugins:
+  - jekyll-feed
